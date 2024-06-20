@@ -6,7 +6,7 @@ Project Files:Soon
 #APK: https://drive.google.com/file/d/1KPk9RYtzWHKxyeQPACEpJHQmSdzW2Iyx/view?usp=drive_link
 #
 <img src="https://i.imghippo.com/files/eKu481718870847.png">
-#<br>
+<br>
 V.02 Update<br>
 -Randomize Maze Genereate<br>
 -Coin Spawn Randomly<br>
